@@ -1,2 +1,5 @@
 # sql-data-warehouse-project
-Building a modern data warehouse using SQL server
+Welcome to the Data Warehouse and Analytics Project repository! 🚀
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+
+Note: This project is part of the "Data with Baraa" Youtube channal's educational series and is intended for learning purposes.
